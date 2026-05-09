@@ -11,6 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=soarexss&label=PROFILE+VIEWS&color=00bcd4&style=for-the-badge" alt="Profile views" />
 </p>
 
+## MVP Em Destaque
+
+<p>
+  <a href="https://github.com/soarexss/desktop-beverage-manager"><img src="https://img.shields.io/badge/MVP-desktop--beverage--manager-00bcd4?style=for-the-badge&logo=github&logoColor=white" alt="MVP" /></a>
+</p>
+
+- [desktop-beverage-manager](https://github.com/soarexss/desktop-beverage-manager) - MVP principal do perfil: aplicativo desktop para gerenciamento de bebidas.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soarexss&repo=desktop-beverage-manager&theme=tokyonight&hide_border=true" alt="desktop-beverage-manager card" />
+</p>
+
 ## `root@github:~$ ./profile --scan`
 
 ```txt
@@ -52,6 +64,7 @@ approach     : clarity, logic, consistency
 
 ## Projetos em destaque
 
+- [desktop-beverage-manager](https://github.com/soarexss/desktop-beverage-manager) - MVP principal do perfil: aplicativo desktop para gerenciamento de bebidas.
 - [barberpro](https://github.com/soarexss/barberpro) - Gerenciamento de pequenas barbearias com foco em atendimento ao cliente.
 - [barberfacilites](https://github.com/soarexss/barberfacilites) - Projeto academico em desenvolvimento para gestao e apoio operacional.
 - [listagem-de-produtos](https://github.com/soarexss/listagem-de-produtos) - Sistema que lista produtos e valores para consultas organizadas.
