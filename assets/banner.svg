@@ -1,0 +1,40 @@
+﻿<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="soarexss terminal banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070b"/>
+      <stop offset="1" stop-color="#0f1720"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d1ff"/>
+      <stop offset="1" stop-color="#00ffa3"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect x="60" y="40" width="1480" height="340" rx="16" fill="#070d14" stroke="#102433" stroke-width="2"/>
+  <rect x="60" y="40" width="1480" height="46" rx="16" fill="#0b131c"/>
+
+  <circle cx="94" cy="63" r="8" fill="#ff5f56"/>
+  <circle cx="122" cy="63" r="8" fill="#ffbd2e"/>
+  <circle cx="150" cy="63" r="8" fill="#27c93f"/>
+
+  <text x="190" y="69" fill="#8aa4b5" font-size="20" font-family="Consolas, Menlo, Monaco, monospace">soarexss@github: ~/profile</text>
+
+  <line x1="95" y1="125" x2="1510" y2="125" stroke="url(#line)" stroke-width="2" opacity="0.75"/>
+
+  <text x="105" y="172" fill="#00d1ff" font-size="38" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">$ whoami</text>
+  <text x="105" y="220" fill="#d2e7f3" font-size="30" font-family="Consolas, Menlo, Monaco, monospace">soarexss</text>
+  <text x="105" y="268" fill="#93b9cc" font-size="26" font-family="Consolas, Menlo, Monaco, monospace">Software Developer in progress</text>
+  <text x="105" y="312" fill="#93b9cc" font-size="26" font-family="Consolas, Menlo, Monaco, monospace">Automation | Backend | Security</text>
+
+  <text x="1030" y="220" fill="#00ffa3" font-size="30" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">SYSTEM ONLINE</text>
+  <text x="1030" y="268" fill="#00d1ff" font-size="24" font-family="Consolas, Menlo, Monaco, monospace">consistency = daily_progress()</text>
+  <text x="1030" y="312" fill="#00d1ff" font-size="24" font-family="Consolas, Menlo, Monaco, monospace">status: building real projects</text>
+</svg>
